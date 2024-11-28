@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+thead {
+  background-color: azure;
+  background-color: aquamarine;
+}
+
+tbody {
+  background-color: beige;
+}
+th>h1
